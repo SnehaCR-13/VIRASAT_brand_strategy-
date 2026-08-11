@@ -29,7 +29,3 @@ The project incorporates influencer collaborations, paid advertising, user-gener
 **Group Project**
 
 My primary contribution was the creation and development of the project presentation, including structuring the content, visual storytelling and presentation of the brand strategy and concepts developed by the team.
-
-## Project Deliverable
-
-- `VIRASAT.pptx` – Project presentation
